@@ -1,0 +1,3 @@
+﻿  test.c
+C:\C语言\代码.c\test.c_8_9.Seqlist\test.c_8_9.Seqlist\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x350 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c_8_9.Seqlist.vcxproj -> C:\C语言\代码.c\test.c_8_9.Seqlist\x64\Debug\test.c_8_9.Seqlist.exe
