@@ -1,0 +1,9 @@
+﻿  contact.c
+C:\C语言\代码.c\test.8_03.Contact.dynamic\test.8_03.Contact.dynamic\contact.h(1,1): warning C4828: 文件包含在偏移 0x48a 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\C语言\代码.c\test.8_03.Contact.dynamic\test.8_03.Contact.dynamic\contact.c(34,36): warning C4047: “return”:“char *”与“int”的间接级别不同
+C:\C语言\代码.c\test.8_03.Contact.dynamic\test.8_03.Contact.dynamic\contact.c(163,49): warning C4047: “函数”:“_CoreCrtNonSecureSearchSortCompareFunction”与“char *(__cdecl *)(const void *,const void *)”的间接级别不同
+C:\C语言\代码.c\test.8_03.Contact.dynamic\test.8_03.Contact.dynamic\contact.c(163,41): warning C4024: “qsort”: 形参和实参 4 的类型不同
+  test.c
+C:\C语言\代码.c\test.8_03.Contact.dynamic\test.8_03.Contact.dynamic\contact.h(1,1): warning C4828: 文件包含在偏移 0x48a 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  test.8_05.contactfile.vcxproj -> C:\C语言\代码.c\test.8_05.contactfile\x64\Debug\test.8_05.contactfile.exe
