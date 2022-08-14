@@ -1,0 +1,3 @@
+﻿  test.c
+C:\C语言\代码.c\test.8_04.FILE\test.8_04.FILE\test.c(57,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test.8_04.FILE.vcxproj -> C:\C语言\代码.c\test.8_04.FILE\x64\Debug\test.8_04.FILE.exe
