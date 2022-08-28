@@ -1,0 +1,4 @@
+﻿  sort.c
+C:\C语言\数据结构(初阶)\test.c_8_25.sort\test.c_8_25.sort\sort.h(1,1): warning C4828: 文件包含在偏移 0x19f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\C语言\数据结构(初阶)\test.c_8_25.sort\test.c_8_25.sort\sort.c(222): warning C4715: “GetMidIndex”: 不是所有的控件路径都返回值
+  test.c_8_25.sort.vcxproj -> C:\C语言\数据结构(初阶)\test.c_8_25.sort\x64\Debug\test.c_8_25.sort.exe
