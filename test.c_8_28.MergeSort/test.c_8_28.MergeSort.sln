@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.c_8_28.MergeSort", "test.c_8_28.MergeSort\test.c_8_28.MergeSort.vcxproj", "{CDBF4065-D953-48D8-9858-9A0BE618E8DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Debug|x64.ActiveCfg = Debug|x64
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Debug|x64.Build.0 = Debug|x64
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Debug|x86.Build.0 = Debug|Win32
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Release|x64.ActiveCfg = Release|x64
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Release|x64.Build.0 = Release|x64
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Release|x86.ActiveCfg = Release|Win32
+		{CDBF4065-D953-48D8-9858-9A0BE618E8DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9ED5041-A8E0-4D3E-B9C9-CBC9AAE8E36A}
+	EndGlobalSection
+EndGlobal
